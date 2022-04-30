@@ -1,0 +1,1 @@
+Olá, esse arquivo irá ensinar você a utilizar o git!
